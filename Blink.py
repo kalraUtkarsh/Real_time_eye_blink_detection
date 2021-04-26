@@ -10,8 +10,8 @@ from imutils import face_utils
 import time
 
 # Initializing the camera and taking the instance
-# cap = cv2.VideoCapture(0)   #### this line is for getting the stream from the Video camera that is real time
-cap = cv2.VideoCapture('test_video.MOV')   ## uncomment this line for getting the stream from the recorded video
+cap = cv2.VideoCapture(0)   #### this line is for getting the stream from the Video camera that is real time
+#cap = cv2.VideoCapture('test_video.MOV')   ## uncomment this line for getting the stream from the recorded video
 
 
 # Initializing the face detector and landmark detector
