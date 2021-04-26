@@ -29,4 +29,4 @@ When you have closed your eyes for more than 2sec, It will show 'Alert!' in red 
 In case of any questions, please contact me.
 email: u.kalra@innopolis.university
 
-telegram: @kalra.Utkarsh
+telegram: @kalraUtkarsh
