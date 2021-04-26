@@ -10,8 +10,12 @@ Now simply just run the `Blink.py` file and see the magic happen.
 Here are some Image examples.
 This is when you blink
 ![image](https://user-images.githubusercontent.com/42469374/116015540-47590200-a642-11eb-9647-3c6e9841f86d.png)
+
+
 When your eyes are open you can still see the blink count in green color.
 ![image](https://user-images.githubusercontent.com/42469374/116015599-82f3cc00-a642-11eb-9fa2-2c45de48c199.png)
+
+
 When you have closed your eyes for more than 2sec, It will show 'Alert!' in red color
 ![image](https://user-images.githubusercontent.com/42469374/116015626-99018c80-a642-11eb-94f7-8f53b1d74355.png)
 
