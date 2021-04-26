@@ -4,6 +4,7 @@ The main landmarks for the face have been taken using the dat file 'shape_predic
 To run this project all you need is `OpenCV` installed for your version of Python.
 `dlib` installed and working.
 You need to put the file `shape_predictor_68_face_landmarks.dat` in the same directory as the code file.
+You can downlaod the `shape_predictor_68_face_landmarks.dat` file from :https://drive.google.com/file/d/1sh1gXPdTgFl8D4B_nUSQ6_-yoqnl03Pn/view?usp=sharing
 Now simply just run the `Blink.py` file and see the magic happen.
 
 
