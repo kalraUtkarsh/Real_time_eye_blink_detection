@@ -7,7 +7,11 @@ You need to put the file `shape_predictor_68_face_landmarks.dat` in the same dir
 
 You can downlaod the `shape_predictor_68_face_landmarks.dat` file from :https://drive.google.com/file/d/1sh1gXPdTgFl8D4B_nUSQ6_-yoqnl03Pn/view?usp=sharing
 
+first just to donwload all the libraries, run the command `pip install -r requirements.txt`
+
 Now simply just run the `Blink.py` file and see the magic happen.
+
+
 
 
 Here are some Image examples.
